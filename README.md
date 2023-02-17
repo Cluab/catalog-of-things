@@ -169,6 +169,8 @@ Example command:
 
 
 - [ ] **[Delete items]**
+- [ ] **[Add movies class]**
+- [ ] **[Add source class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
